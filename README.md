@@ -1,7 +1,7 @@
 # TESTE OUTSERA
 
 ## Sobre o projeto
-Segue abaixo instruções sobre como instalar e executar o projeto do teste outsera seguindo a [prosposta enviada](Especificação Backend.pdf).
+Segue abaixo instruções sobre como instalar e executar o projeto do teste outsera seguindo a prosposta enviada
 
 ## Instalação
 - git clone url
