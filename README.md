@@ -4,13 +4,13 @@
 Segue abaixo instruções sobre como instalar e executar o projeto do teste outsera seguindo a prosposta enviada
 
 ## Instalação
-- git clone url
+- git clone
 - ter python 3.13+ instalado
 - executar pip install -r requirements.txt no diretório do projeto
 
 ## Inicializar API
-- Executar no diretório do projeto uvicorn app:app --host=127.0.0.1 --port=8000, --host e --port podem ser alterados conforme necessário
-- O primeiro arquivo .csv dentro da pasta data do projeto será o arquivo de dados utilizado pela api
+- executar no diretório do projeto uvicorn app:app --host=127.0.0.1 --port=8000, --host e --port podem ser alterados conforme necessário
+- o primeiro arquivo .csv dentro da pasta data do projeto será o arquivo de dados utilizado pela api
 
 ## Execução de testes
 - se as variáveis --port ou --host foram alteradas alterar o arquivo .env na pasta tests do projeto conforme os novos valores informados
